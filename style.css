@@ -1,4 +1,5 @@
 body{
+   background-image:url(images\oo.png); 
 }
 .half-width h1 {
     font-family:Poppins ;
@@ -157,4 +158,7 @@ margin-right: 70px;
     font-size:20px;
     padding-bottom:50px;
  
+}
+.work-corona h1,p{
+    font-family:Poppins
 }
