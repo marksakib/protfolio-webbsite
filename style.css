@@ -1,6 +1,7 @@
 body{
-   background-image:url(images\oo.png); 
-}
+        background-image: url('images\oo.png');
+        background-repeat: no-repeat;     
+     }
 .half-width h1 {
     font-family:Poppins ;
     font-size: 3.5em;
@@ -147,7 +148,7 @@ margin-right: 70px;
     color: snow;
     text-align:center;
     padding:70px 0px 0px 0px;
-    letter: spacing 3px;
+
 }
 .footer h1,h6{
     margin: 20px;
