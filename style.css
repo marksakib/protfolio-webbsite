@@ -7,6 +7,9 @@ body{
 .half-width p{
     font-size: large;
 }
+.half-width a{
+    margin: 5px;
+}
 .red-color{
     color:red;
 }
@@ -78,10 +81,14 @@ padding-top: 20px;
 width: 400px;
 margin-left: 70px;
 }
+.width-text a{
+margin: auto;
+}
 .width-text{
     width: 60%;
     margin-left: 50px;
     padding-right: 40px;
+    margin-top: 20px;
 }
 .width-text h1{
     font-size: xx-large;
@@ -92,10 +99,9 @@ margin-left: 70px;
     font-size: large;
 }
 .hero-coding{
-    margin-top: 100px;
+    margin-top: px;
 }
 .hero-coding img{
-width: 400px;
 margin-right: 70px;
 }
 .wKnow-our-Global-Community{
@@ -112,4 +118,15 @@ margin-right: 70px;
 .Know-our-Global-Community p,a{
     font-size: large;
     margin-left: 70px;
+}
+.hero-corona img{
+    width: 100%;
+}
+.work-h1
+{    font-family:Poppins ;
+    font-size: 3.5em;
+    text-align: center;
+}
+.work-corona{
+    margin-top: 170px;
 }
